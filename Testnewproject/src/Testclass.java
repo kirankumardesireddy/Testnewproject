@@ -1,4 +1,4 @@
 
-public class Testclass {
+private  class Testclass {
 
 }
